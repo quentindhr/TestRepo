@@ -34,8 +34,9 @@ public class Table {
         this.jeu = new Paquet();
 
         for (Joueur joueur : Joueurs) {
-            joueur.Piocher(jeu);
-            joueur.Piocher(jeu);
+            //joueur.Piocher(jeu);
+            //joueur.Piocher(jeu);
+            //vbdsjovbzruobvjzdbvuorvb urvjdsbvuir hsbvuir
         }
 
         System.out.println(Joueurs);
